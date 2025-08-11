@@ -60,6 +60,6 @@
 
 
 #  Screenshots/Demos:
-![Dashboard Preview]-(
+![Dashboard Preview]-(https://github.com/Devnikhil1/Sport-Stats-Dashboard/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 
